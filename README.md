@@ -1,4 +1,5 @@
-![1_FfBynQBLv37OqXazih_Yyw](https://github.com/omerovali/omerovali/assets/142341140/933ec978-47d5-4bb3-bf7a-d2540646f94f)
+![1_tjHTmF_1SUY6_pykU6_VpQ](https://github.com/omerovali/omerovali/assets/142341140/e6b92c10-4b35-41dd-b9a2-612a0356de76)
+
 <h1 align="center">Hi 👋, I'm Ömer Faruk OVALI</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
