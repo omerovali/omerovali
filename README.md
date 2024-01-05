@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk OVALI</h1>
 
-![Adsız tasarım](https://github.com/omerovali/omerovali/assets/142341140/c0b719f7-2c61-4d87-8641-ce5313a12826)
-
+![Adsız tasarım (1)](https://github.com/omerovali/omerovali/assets/142341140/89d58fed-1ee0-41aa-bc51-5a8c2baf097a)
 
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
