@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A996%2F1*FfBynQBLv37OqXazih_Yyw.gif&tbnid=hj-SDZDah2gCgM&vet=12ahUKEwj_sd7htcaDAxUE7bsIHctKCW0QMygOegQIARBz..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40Th3GameDev%2Fmy-journey-to-becoming-a-game-developer-software-engineer-e2d0ba99c03a&docid=zAFVJvHicpMbVM&w=498&h=280&q=hello%20world%20gif&ved=2ahUKEwj_sd7htcaDAxUE7bsIHctKCW0QMygOegQIARBz)
+ [![MasterHead]((https://miro.medium.com/v2/resize:fit:640/format:webp/1*FfBynQBLv37OqXazih_Yyw.gif))
 <h1 align="center">Hi 👋, I'm Ömer Faruk OVALI</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
